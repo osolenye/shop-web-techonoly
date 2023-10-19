@@ -1,0 +1,145 @@
+* {
+  background-color: #F9F6F1;
+}
+
+.navbar {
+  text-align: center;
+}
+.navbar ul {
+  list-style-type: none;
+}
+.navbar li {
+  display: inline;
+  margin: 20px;
+}
+.navbar li span {
+  margin: 30px;
+}
+.navbar li span .TheLoop {
+  color: var(--Black, #212121);
+  font-family: Montserrat;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+}
+.navbar li a {
+  color: var(--Black, #212121);
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.42px;
+  text-decoration: none;
+}
+
+.content .sales {
+  margin-left: 300px;
+  margin-top: 150px;
+  color: #000;
+  font-family: Montserrat;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.6px;
+}
+.content .discount {
+  margin-left: 300px;
+  margin-top: 20px;
+  color: #000;
+  font-family: Montserrat;
+  font-size: 55px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 2.2px;
+}
+.content .models {
+  padding: 20px;
+  background-color: #D7B399;
+  height: 20px;
+  width: 50px;
+  color: #FFF;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.48px;
+  text-transform: uppercase;
+  margin-left: 300px;
+}
+.content .shoes {
+  margin: 0px;
+}
+.content .shoes img {
+  width: 556px;
+  height: 377px;
+  margin-left: 750px;
+  margin-top: -250px;
+}
+.content .shoes .fullPrice {
+  color: #000;
+  text-align: right;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 1.2px;
+  text-decoration-line: line-through;
+  text-transform: uppercase;
+  margin-top: -300px;
+  margin-right: 150px;
+}
+.content .shoes .notFullPrice {
+  color: #D84033;
+  text-align: right;
+  font-family: Montserrat;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 0.84px;
+  text-transform: uppercase;
+  margin-right: 150px;
+}
+
+.black .blackBar .shipping {
+  padding: 20px;
+  background-color: black;
+  height: 235px;
+  margin-top: 100px;
+  color: #FFF;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 0.6px;
+}
+.black .blackBar .shipping .Rubles {
+  background-color: black;
+  font-family: Montserrat;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.6px;
+}
+.black .blackBar .orderPrize {
+  color: #FFF;
+  text-align: center;
+  font-family: Montserrat;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  margin-top: -200px;
+  background-color: black;
+}

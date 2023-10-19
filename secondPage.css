@@ -1,0 +1,115 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.top {
+  display: inline-block;
+  position: relative;
+}
+.top .mensCollection {
+  display: inline-block;
+  background-color: #F9F6F1;
+  height: 260px;
+  width: 760px;
+}
+.top .mensCollection .men {
+  position: relative;
+  left: 150px;
+  top: 50px;
+  color: #000;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.72px;
+}
+.top .mensCollection .men .collection {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  letter-spacing: 0.72px;
+}
+.top .mensCollection .products {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  width: 264px;
+  height: 15px;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  top: 70px;
+  left: 150px;
+  position: relative;
+}
+.top .mensCollection .arch {
+  position: relative;
+  background-color: #D7B399;
+  height: 30px;
+  width: 80px;
+  top: 100px;
+  left: 150px;
+}
+.top .mensCollection .guy {
+  float: right;
+}
+.top .womensCollection {
+  display: inline-block;
+  background-color: #F9F6F1;
+  height: 260px;
+  width: 760px;
+}
+.top .womensCollection .women {
+  position: relative;
+  left: 150px;
+  top: 50px;
+  color: #000;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 0.72px;
+}
+.top .womensCollection .women .collection {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  letter-spacing: 0.72px;
+}
+.top .womensCollection .products {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  width: 264px;
+  height: 15px;
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  top: 70px;
+  left: 150px;
+  position: relative;
+}
+.top .womensCollection .arch {
+  position: relative;
+  background-color: #D7B399;
+  height: 30px;
+  width: 80px;
+  top: 100px;
+  left: 150px;
+}
+.top .womensCollection .girl {
+  float: right;
+}
